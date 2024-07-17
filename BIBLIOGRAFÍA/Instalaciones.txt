@@ -1,0 +1,25 @@
+npx shadcn-ui@latest add button ---> Agrego componente botón de la biblioteca "shadcn".
+
+npm install @clerk/nextjs ---> Instalo clerk que es un paquete de herramientas para solucionar la autenticación y gestión de usuarios en aplicaciones web.
+
+npm i drizzle-orm ---> es una biblioteca que facilita la interacción con bases de datos y lo utilizo para definir y manipular esquemas de bases de datos.
+
+npm i @neondatabase/serverless ---> Es un paquete que proporcionará una interfaz para interactuar con bases de datos Neon de manera serverless, con esto me conectaré y gestionaré la bd Neon.
+
+npm i dotenv ---> Paraa configurar Drizzle.
+
+npx shadcn-ui@latest add sonner ---> Sonner es una biblioteca de notificaciones para aplicaciones web.
+
+npx shadcn-ui@latest add sheet ---> sheet es un componente que ayuda para ampliar el componente Diálogo y mostrar contenido que complementa el contenido principal de la pantalla.
+
+npm i react-circular-progressbar ---> Descargamos un paquete que tiene una barra circular dinámica la cual marcará el progreso en una lección determinada
+
+npx shadcn-ui@latest add progress ---> Agregamos el componente de barra de progreso al proyecto.
+
+npx shadcn-ui@latest add dialog ---> Agregamos un componente de dialogo.
+
+npx shadcn-ui@latest add avatar
+npx shadcn-ui@latest add separator
+
+npm i react-admin ---> es un framework para crear interfaces de administración con React
+npm i ra-data-simple-rest --->es un proveedor de datos que se usa con react-admin para conectarse a una API
